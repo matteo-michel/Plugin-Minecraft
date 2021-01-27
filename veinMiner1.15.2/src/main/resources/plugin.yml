@@ -1,0 +1,12 @@
+name: VeinMiner
+version: ${project.version}
+main: fr.iwarzie.veinMiner.Main
+api-version: 1.15
+authors: [IWaRZie]
+description: Mine automatique le filon complet
+
+commands:
+  veinActive:
+    description: Activer le plugin VeinMiner
+    permissions: veinActive.use
+

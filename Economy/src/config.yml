@@ -1,0 +1,21 @@
+prefixe: "&7[&6Coin&7]&r"
+
+item1: GOLD_NUGGET
+montant1: 0
+item2: GOLD_INGOT
+montant2: 101
+item3: GOLD_BLOCK
+montant3: 5001
+
+title: "&6%MONTANT%$"
+
+itemDescription: 
+  - "&3Click droit pour récupérer l'argent"
+
+argumentErrorMessage: "&cErreur d'argument !"
+intErrorMessage: "&cErreur : Le montant saisi doit être supérieur à 0 !"
+moneyErrorMessage: "&cVous n'avez pas assez d'argent pour effectuer cette requête !"
+debitMessage: "%MONTANT%$ ont été retiré de votre compte"
+creditMessage: "Vous avez été crédité de : %MONTANT%$"
+
+

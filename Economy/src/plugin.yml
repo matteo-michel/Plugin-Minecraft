@@ -1,0 +1,11 @@
+name: Coin
+version: 2.0
+authors: ['IWaRZie', 'AlexRex_']
+main: fr.IWaRZie.Economy.Main
+api-version: 1.15
+depends: [Vault]
+
+commands:
+  coin:
+    description: create a coin
+    permission: coin.use

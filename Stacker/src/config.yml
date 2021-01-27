@@ -1,0 +1,7 @@
+prefixe: "&7[&bDrawers&7]&r"
+
+animation: true
+
+customNameDrawer : "%NUMBER%x %TYPE%"
+NoStackableElementMessage: "Erreur : Le drawer ne contient pas ce bloc !"
+ElementDurabiltyNoStackable: "Erreur : Cet élément ne peut être stocké dans un drawer !"
